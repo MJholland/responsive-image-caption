@@ -85,5 +85,6 @@ figure {
 
   .caption {
     width: 30%;
+    padding-top: 1rem;
   }
 }
